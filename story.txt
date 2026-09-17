@@ -1,20 +1,60 @@
-10 sec | A small bear cub slipping on a frozen waterfall, desperately clinging to a thin branch as a massive blizzard rages.
-10 sec | A ragged orange fox sprinting through a collapsing junk yard, holding tightly onto a shiny lost locket.
-40 sec | A deer boy with broken horns dodging falling trees and flying debris in a violently windy dark forest.
-30 sec | A tiny rabbit burrowing frantically as its underground home starts to collapse from heavy rain flooding above.
-45 sec | A mother bear shielding her cub from a massive snow avalanche, pushing aggressively through deep freezing snow.
-50 sec | A lone penguin sliding uncontrollably down a massive cracking glacier, trying to reach the ocean before the ice shatters.
-35 sec | A fluffy white wolf pup tumbling down a steep snowy mountain, desperately trying to catch a falling glowing leaf.
-40 sec | A lost seal pup swimming frantically through a dark dangerous maze of sharp underwater ice crystals.
-45 sec | A shivering husky pulling a broken wooden sled through a blinding freezing blizzard, refusing to stop despite exhaustion.
-30 sec | A snow leopard jumping frantically across melting sinking ice chunks on a roaring dark river.
-50 sec | A rusty forgotten robot running through a futuristic scrapyard to save a fragile glowing flower from a massive dust storm.
-40 sec | A small alien child running away in terror from towering dark silhouettes in an abandoned rainy space port.
-35 sec | A toy soldier coming to life, struggling and crawling through a muddy flooded garden to return to its owner's house.
-45 sec | A mechanical bird with a broken wing hopping frantically to escape a violently rising dark tide on a rocky beach.
-60 sec | A discarded plush bunny getting washed down a rushing city gutter, fighting desperately to stay afloat in the dark water.
-40 sec | A baby elephant sliding down a steep muddy ravine, trying to desperately follow its herd in the pouring rain.
-35 sec | A sad monkey running through a crowded, uncaring city street in the rain holding a torn photograph of its family.
-50 sec | A tiny dragon who cannot fly, sprinting up a crumbling stone tower to escape a massive dark flood rushing below.
-30 sec | A scared raccoon darting aggressively through heavy street traffic in the rain to rescue a dropped shiny coin.
-45 sec | A homeless kitten dragging a heavy, wet blanket through a dark windy alleyway while a violent thunderstorm rages.
+45 sec | A young wounded samurai dodging falling wooden pillars in a collapsing stormy burning temple.
+35 sec | A brave medieval peasant girl running through a muddy village, escaping galloping war horses.
+50 sec | A blind monk walking calmly through a chaotic ancient battlefield, dodging raining arrows.
+40 sec | A lost heavily armored knight dragging his sword through a thick, spooky and foggy forest.
+45 sec | A fierce female viking swinging an axe to shatter a falling wooden gate in the heavy snow.
+35 sec | A young ninja running silently across slippery wet rooftops during a violent midnight monsoon.
+55 sec | A brave roman gladiator dodging a massive swinging spiked chain in a crumbling arena.
+40 sec | A royal archer sliding down a steep muddy hill to shoot an arrow at a shadowy pursuing enemy.
+45 sec | A heroic young king defending his injured brother from circling dark assassins in the rain.
+50 sec | A female warrior galloping on a white horse through a violently stormy desert canyon.
+35 sec | A brave squire climbing a collapsing stone tower to ring the massive warning bell.
+45 sec | A wounded spartan soldier holding up his heavy shield to block a massive falling boulder.
+55 sec | A young samurai slicing through a barrage of incoming bamboo spears in a dark forest.
+40 sec | A brave peasant boy swinging a heavy pitchfork to scare away wild wolves in the snow.
+50 sec | A female knight running across a swaying rope bridge while enemy arrows cut the ropes.
+35 sec | A shadowy ninja throwing a smoke bomb to disappear from a crowded, panicked market.
+45 sec | A heroic templar knight standing alone on a narrow bridge, holding back an army of shadows.
+40 sec | A young prince running through a secret dark underground tunnel to escape the falling castle.
+50 sec | A fierce celtic warrior diving under a massive swinging tree trunk trap in the muddy woods.
+35 sec | A blind samurai listening to the raindrops to locate and dodge a sudden sword strike.
+45 sec | A brave shield-maiden pushing a heavy wooden barricade shut against a violent stormy wind.
+55 sec | A young archer running across the top of a crumbling castle wall, shooting arrows into the fog.
+40 sec | A heroic gladiator fighting a wild charging bull in an empty, dusty, and windy arena.
+50 sec | A female ninja leaping between falling rocks during a massive earthquake in a mountain gorge.
+35 sec | A medieval messenger galloping frantically through a flooded valley to deliver a royal scroll.
+45 sec | A brave young viking rowing a small wooden boat through violently crashing ocean waves.
+40 sec | A wounded knight crawling through the mud to retrieve his fallen golden helmet.
+50 sec | A fierce samurai standing motionless in a blizzard, waiting for the shadowy enemy to attack.
+35 sec | A brave peasant girl throwing a burning torch to scare away soldiers from her ruined farm.
+45 sec | A young prince swinging on a chandelier rope to escape a collapsing grand dining hall.
+55 sec | A heroic templar using his heavy shield to smash through a locked iron gate in the rain.
+40 sec | A female archer hiding in the tall dark grass, drawing her bow silently in the moonlight.
+50 sec | A brave ninja sliding down a steep snowy mountain to outrun a massive deadly avalanche.
+35 sec | A young squire desperately pulling his injured knight out of a fast-flowing deep river.
+45 sec | A fierce viking warrior roaring loudly at the stormy sky, holding his axe high.
+40 sec | A blind monk catching a flying arrow with his bare hands in the middle of a dusty fight.
+50 sec | A heroic samurai sprinting across a battlefield of blooming cherry blossoms in the strong wind.
+35 sec | A brave peasant boy leading his family's horses out of a collapsing, windy wooden stable.
+45 sec | A female gladiator dodging a massive falling stone pillar in a ruined, ancient colosseum.
+55 sec | A young knight jumping onto the back of a runaway galloping horse in a crowded street.
+40 sec | A shadowy ninja leaping out of a dark river, striking down a heavy wooden guard tower.
+50 sec | A fierce viking shield-wall holding strong against a massive wave of crashing stormy sea water.
+35 sec | A brave archer shooting a flaming arrow into a dark sky to signal for backup.
+45 sec | A wounded samurai wrapping a torn piece of cloth around his arm while hiding in a cave.
+50 sec | A heroic female knight riding through a dark collapsing canyon, dodging massive falling rocks.
+40 sec | A young prince fighting a shadowy assassin on the edge of a high, slippery castle roof.
+45 sec | A brave monk striking the ground with his staff to break a wooden trap door open.
+55 sec | A fierce viking ship tossing violently in a massive hurricane, with warriors holding the ropes.
+35 sec | A medieval blacksmith swinging his heavy hammer to break the chains of a trapped horse.
+50 sec | A young ninja throwing throwing-stars to cut the ropes of a massive dropping net trap.
+40 sec | A female samurai sitting in the rain, quietly sharpening her sword on a wet stone.
+45 sec | A brave squire carrying the heavy royal flag through a muddy, chaotic, and windy battlefield.
+50 sec | A heroic knight diving into a dark moat to escape a barrage of fiery enemy arrows.
+35 sec | A fierce spartan soldier throwing his heavy spear into the thick, blinding desert dust storm.
+45 sec | A young archer sliding under a heavy rolling wagon wheel in a panicked, crowded village.
+55 sec | A blind samurai walking through a forest of falling autumn leaves, completely focused.
+40 sec | A brave peasant girl pulling a heavy iron lever to drop the castle drawbridge.
+45 sec | A female warrior standing victorious on a high cliff, her red cape blowing violently in the wind.
+50 sec | A heroic knight looking up at the breaking clouds as a single ray of sunlight hits his face.
+35 sec | A young ninja disappearing instantly into a thick cloud of dust as the enemy approaches.
